@@ -26,7 +26,7 @@ int main() {
 //    std::cout << std::setprecision(5) << rand_double(50, 90) << std::endl;
 //    std::cout << std::setprecision(5) << ranDouble << std::endl;
 
-//    std::cout << "Hello, World! I have modified the output printed to the screen!" << std::endl;
+    std::cout << "Hello, World! I have modified the output printed to the screen!" << std::endl;
     return 0;
 }
 
