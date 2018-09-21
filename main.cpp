@@ -56,7 +56,7 @@ int main() {
     std::cout << "The average reading is " << std::fixed << std::setprecision(3) << (sum/entryCount) << std::endl;
     std::cout << "The highest reading is " << myVector[myVector.size() - 1] << std::endl;
     std::cout << "The lowest reading is " << myVector[0] << std::endl;
-    std::cout << "The median is " << medianIndex(myVector) << std::endl;
+    std::cout << "The median reading is " << medianIndex(myVector) << std::endl;
 
 
 
